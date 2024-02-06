@@ -136,7 +136,7 @@ function App() {
         <a href="https://pratikkale.in" target="_blank" rel="noreferrer">
           Pratik Kale |{" "}
           <a
-            href="https://github.com/pratikkalein/favnum-sol-ethers"
+            href="https://github.com/pratikkalein/ethers-fund-me"
             target="_blank"
             rel="noreferrer"
           >
